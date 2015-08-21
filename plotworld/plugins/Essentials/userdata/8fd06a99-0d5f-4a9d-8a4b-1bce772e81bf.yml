@@ -1,0 +1,20 @@
+lastAccountName: Starlord_STRX
+timestamps:
+  login: 1440184168516
+  lastteleport: 1440184533076
+  logout: 1440184760436
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 147.5821595267147
+  y: 76.48081248763498
+  z: 299.5007550340835
+  yaw: 151.35127
+  pitch: 35.250168
+logoutlocation:
+  world: world
+  x: 142.78956290277563
+  y: 65.0
+  z: 284.70793140343267
+  yaw: -162.44849
+  pitch: 26.250563
